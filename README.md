@@ -9,17 +9,12 @@ Tracks number of attempts
 
 Simple and beginner-friendly logic
 
-* Technologies Used
+*How to play
 
-Java
+program will ask options select 1 to play
 
-Core Java concepts (loops, conditionals, input handling)
+then guess a number and it show lower or higher according to number
 
-* What I Learned
+or winning message if number is same 
 
-Java control structures
-
-Problem-solving and logic building
-
-Writing clean and readable code
-
+then if you want to play again then chosse 1 or 2 for exit
